@@ -1,4 +1,3 @@
-
 # Petr Štěpka
 #### ♾ C# developer @ Sabris
 #### 👨‍💻ECM consultant @ Sabris
